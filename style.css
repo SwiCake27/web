@@ -1,0 +1,54 @@
+
+.title{
+    border:solid;
+color:rgb(202, 121, 0);
+background-color: #381b00;
+}
+.Camels{
+    border:solid;
+color:darkgoldenrod;
+background-color: #b15500
+}
+.Pigeon {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #af651f
+  }
+  .Panda {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #b15500
+  }
+  .Teddy {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #af651f
+  }
+  .Cicada {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #b15500
+  }
+  .Chameleon {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #af651f
+  }
+  h2{
+      color:black
+  }
+  h1{
+color:rgb(211, 127, 1)
+  }
+  .desiegn{
+      display:flex;
+   
+      flex-direction: row;
+      border:solid;
+      color:peru   ;
+
+      
+  }
+  body{
+    columns: #ca8e1d;
+  }
